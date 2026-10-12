@@ -1,0 +1,248 @@
+[
+  {
+    "id": "cuchillo-trenzado-bicolor",
+    "cat": "cuchillos",
+    "name": "Cuchillo Inox trenzado Marron",
+    "desc": "Mango de cuero crudo trenzado en dos tonos, con apliques en alpaca.",
+    "longDesc": "Cuchillo hoja Inoxidable y mango de cuero crudo trenzado a mano en dos tonos. Los apliques de alpaca cierran el mango en ambos extremos.\n\nEs una pieza de taller: el trenzado y las terminaciones pueden variar levemente de una unidad a otra.",
+    "price": 59500,
+    "wholesale": 34200,
+    "stock": 30,
+    "img": "./assets/cuchillo-trenzado-bicolor.jpg",
+    "images": [
+      "./assets/cuchillo-trenzado-bicolor.jpg"
+    ],
+    "specs": [
+      [
+        "Hoja",
+        "Acero Inoxidable"
+      ],
+      [
+        "Mango",
+        "Cuero crudo trenzado, en dos tonos"
+      ],
+      [
+        "Punteras",
+        "Alpaca"
+      ],
+      [
+        "Hechura",
+        "Artesanal, en la Patagonia"
+      ],
+      [
+        "Cuidado",
+        "Secar después de usar y no humedecer cabo."
+      ]
+    ]
+  },
+  {
+    "id": "cuchillo-trenzado-claro",
+    "cat": "cuchillos",
+    "name": "Cuchillo criollo trenzado claro",
+    "desc": "Mango de cuero crudo claro, trenzado a mano y terminado con Alpaca.",
+    "longDesc": "Cuchillo Clásico con hoja de acero inoxidable y mango de cuero crudo claro, trenzado a mano. Las punteras de alpaca dan el cierre al mango y acompañan el tono del cuero.\n\nCada unidad se trabaja de forma individual, por lo que el trenzado puede variar levemente.",
+    "price": 62000,
+    "wholesale": 33800,
+    "stock": 37,
+    "img": "./assets/cuchillo-trenzado-claro.jpg",
+    "images": [
+      "./assets/cuchillo-trenzado-claro.jpg"
+    ],
+    "specs": [
+      [
+        "Hoja",
+        "Acero al carbono"
+      ],
+      [
+        "Mango",
+        "Cuero crudo claro trenzado"
+      ],
+      [
+        "punteras",
+        "Alpaca"
+      ],
+      [
+        "Hechura",
+        "Artesanal, en la Patagonia"
+      ],
+      [
+        "Cuidado",
+        "Secar después de usar y no humedecer prolongadamente."
+      ]
+    ]
+  },
+  {
+    "id": "cuchillo-casquillo",
+    "cat": "cuchillos",
+    "name": "Cuchillo criollo con casquillo de latón",
+    "desc": "Mango hecho con casquillo de bala Legitimo y hoja Inoxidable Dagger.",
+    "longDesc": "Cuchillo de coleccion con hoja inoxidable y un mango distinto: casquillo de bala trabajado como empuñadura. Una pieza con carácter, pensada para quien busca algo fuera de lo común.",
+    "price": 57100,
+    "wholesale": 25900,
+    "stock": 44,
+    "img": "./assets/cuchillo-casquillo.jpg",
+    "images": [
+      "./assets/cuchillo-casquillo.jpg"
+    ],
+    "specs": [
+      [
+        "Hoja",
+        "Acero Inox."
+      ],
+      [
+        "Mango",
+        "Casquillo de Bala legitimo Cal 7.62"
+      ],
+      [
+        "Hechura",
+        "Artesanal, en la Patagonia"
+      ],
+      [
+        "Cuidado",
+        "mantenerlo en un lugar limpio y seco."
+      ]
+    ]
+  },
+  {
+    "id": "mate-cuero-bordo",
+    "cat": "mates",
+    "name": "Mate de cuero bordó con virola grabada",
+    "desc": "Mate de cuero bordó con virola de Alpaca cincelada a mano",
+    "longDesc": "Mate de cuero bordó con virola de Alpaca cincelada a mano. \n-Los diseños de virola pueden variar.",
+    "price": 38000,
+    "wholesale": 24200,
+    "stock": 20,
+    "img": "./assets/mate-cuero-bordo.jpg",
+    "images": [
+      "./assets/mate-cuero-bordo.jpg"
+    ],
+    "specs": [
+      [
+        "Cuerpo",
+        "Cuero Legitimo"
+      ],
+      [
+        "Color",
+        "bordó"
+      ],
+      [
+        "Interior",
+        "Calabaza Entrerriana"
+      ],
+      [
+        "Virola",
+        "Alpaca grabada."
+      ],
+      [
+        "Hechura",
+        "Artesanal, en la Patagonia"
+      ]
+    ]
+  },
+  {
+    "id": "mate-cuero-negro",
+    "cat": "mates",
+    "name": "Mate de cuero negro con virola grabada",
+    "desc": "Mate de cuero negro con virola de Alpaca cincelada a mano. \n-Los diseños de virola pueden variar.",
+    "longDesc": "Mate de cuero bordó con virola de Alpaca cincelada a mano.",
+    "price": 38000,
+    "wholesale": 24200,
+    "stock": 23,
+    "img": "./assets/mate-cuero-negro.jpg",
+    "images": [
+      "./assets/mate-cuero-negro.jpg"
+    ],
+    "specs": [
+      [
+        "Cuerpo",
+        "Cuero oscuro"
+      ],
+      [
+        "Color",
+        "Oscuro"
+      ],
+      [
+        "Interior",
+        "Calabaza Entrerriana"
+      ],
+      [
+        "Virola",
+        "Alpaca grabada."
+      ],
+      [
+        "Hechura",
+        "Artesanal, en la Patagonia"
+      ]
+    ]
+  },
+  {
+    "id": "mate-calabaza-cuero",
+    "cat": "mates",
+    "name": "Mate rústico con Base de Cuero Crudo",
+    "desc": "Boca ancha, terminación natural y base de cuero cosida con tientos.",
+    "longDesc": "Mate de terminación natural y boca ancha, abrazado por una base de cuero. Una pieza sencilla y rústica, de las que se usan todos los días y duran toda la vida.",
+    "price": 31000,
+    "wholesale": 20200,
+    "stock": 70,
+    "img": "./assets/mate-calabaza-cuero.jpg",
+    "images": [
+      "./assets/mate-calabaza-cuero.jpg"
+    ],
+    "specs": [
+      [
+        "Boca",
+        "Ancha"
+      ],
+      [
+        "Terminación",
+        "Natural"
+      ],
+      [
+        "Base",
+        "Cuero Crudo"
+      ],
+      [
+        "Hechura",
+        "Artesanal, en la Patagonia"
+      ]
+    ]
+  },
+  {
+    "id": "bombilla-cincelada",
+    "cat": "bombillas",
+    "name": "Bombilla cincelada de pico plano",
+    "desc": "Bombilla de alpaca pulida y cincelada. Boquilla de bronce. Filtro cuchara. Soldadura de plata (30%).",
+    "longDesc": "Diseñada para resistir el uso diario e intensivo sin perder su integridad. La combinación de alpaca y bronce evita que la pieza se deforme o transfiera el calor a los labios.",
+    "price": 38500,
+    "wholesale": 22199,
+    "stock": 100,
+    "img": "./assets/bombilla-cincelada.jpg",
+    "images": [
+      "./assets/bombilla-cincelada.jpg",
+      "./assets/bombillas-par.jpg",
+      "./assets/bombilla-detalle.jpg"
+    ],
+    "specs": [
+      [
+        "Caño",
+        "Alpaca Cincelada"
+      ],
+      [
+        "Pico",
+        "Plano de Bronce"
+      ],
+      [
+        "Filtro",
+        "Tipo cuchara"
+      ],
+      [
+        "Terminación",
+        "Pulido"
+      ],
+      [
+        "Hechura",
+        "Artesanal, en la Patagonia"
+      ]
+    ]
+  }
+]
